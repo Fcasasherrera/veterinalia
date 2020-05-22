@@ -26,7 +26,6 @@ import 'react-calendar/dist/Calendar.css';
 
 
 import { arrayUsers } from './DataService.js';
-import avatar from "assets/img/faces/marc.jpg";
 
 const useStyles = makeStyles((theme) => ({
   ...cardImagesStyles,
